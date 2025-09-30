@@ -1,2 +1,3 @@
-# quiz-master
-This project is a full-stack quiz management system where admins can manage subjects, chapters, and quizzes, and users can take quizzes, track their performance, and get score summaries. It is a CRUD-based full-stack application using Flask REST APIs and VueJS
+It is a multi-user app that acts as an exam preparation site for multiple courses built with Flask, Vue.js, and SQLite.
+
+
