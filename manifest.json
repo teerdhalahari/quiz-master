@@ -1,0 +1,8 @@
+{
+  "name": "Quiz Master",
+  "description": "Exam preparation site for multiple courses",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#2196F3"
+} 
